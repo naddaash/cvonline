@@ -1,6 +1,6 @@
 import Hero from "./components/hero";
 import RiwayatPendidikan from "./components/RiwayatPendidikan";
-import RiwayatPekerjaan from "./components/RiwayatPekerjaan.tsx";
+import RiwayatPekerjaan from "./components/RiwayatPekerjaan";
 
 import "./nadda-style.css";
 
